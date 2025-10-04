@@ -106,6 +106,7 @@ bsky.app: [https://bsky.app/profile/hugovalters.bsky.social](https://bsky.app/pr
 YouTube: [https://www.youtube.com/@hugovalters](https://www.youtube.com/@hugovalters)<br>
 Homepage: [https://www.valters.eu](https://www.valters.eu)<br>
 GitHub: [https://github.com/hugovalters](https://github.com/hugovalters)<br>
+GitLab: [https://gitlab.com/hugovalters](https://gitlab.com/hugovalters)<br>
 Medium: [https://blog.valters.eu](https://blog.valters.eu)<br>
 
 By Hugo Valters

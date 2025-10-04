@@ -101,11 +101,11 @@ I’ve used a lot of tools. Some were powerful, others were painful.
 Caddy is the first one that felt like **it was built for me**. It’s not flashy. It doesn’t try to be everything. But what it does, it does **exceptionally well**. If you value **simplicity, security, and automation**, give Caddy a try.
 Your future self will thank you.
 
-X.com: [https://x.com/hugovalters](https://x.com/hugovalters)
-bsky.app: [https://bsky.app/profile/hugovalters.bsky.social](https://bsky.app/profile/hugovalters.bsky.social)
-YouTube: [https://www.youtube.com/@hugovalters](https://www.youtube.com/@hugovalters)
-Homepage: [https://www.valters.eu](https://www.valters.eu)
-GitHub: [https://github.com/hugovalters](https://github.com/hugovalters)
-Medium: [https://blog.valters.eu](https://blog.valters.eu)
+X.com: [https://x.com/hugovalters](https://x.com/hugovalters)<br>
+bsky.app: [https://bsky.app/profile/hugovalters.bsky.social](https://bsky.app/profile/hugovalters.bsky.social)<br>
+YouTube: [https://www.youtube.com/@hugovalters](https://www.youtube.com/@hugovalters)<br>
+Homepage: [https://www.valters.eu](https://www.valters.eu)<br>
+GitHub: [https://github.com/hugovalters](https://github.com/hugovalters)<br>
+Medium: [https://blog.valters.eu](https://blog.valters.eu)<br>
 
 By Hugo Valters
